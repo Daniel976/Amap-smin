@@ -5,7 +5,7 @@ const veggies = {
     image: 'https://www.mon-marche.fr/upload/rayonnage/250/img_338/456x338.jpg',
     desc: 'Un légume du soleil qui fleure bon la Méditerranée et la cuisine estivale.',
     price: 793,
-    status: 'available'
+    status: 'unavailable'
   },
 
   veggie2: {
@@ -13,7 +13,7 @@ const veggies = {
     image: 'https://www.mon-marche.fr/upload/rayonnage/252/img_338/456x338.jpg',
     desc: 'Dans la blette, tout est bon, le vert des feuilles comme le blanc des côtes...',
     price: 369,
-    status: 'available'
+    status: 'unavailable'
   },
 
   veggie3: {
